@@ -53,3 +53,13 @@ jupyter notebook Traffic_Sign_Classifier.ipynb
 ### Requirements for Submission
 Follow the instructions in the `Traffic_Sign_Classifier.ipynb` notebook and write the project report using the writeup template as a guide, `writeup_template.md`. Submit the project code and writeup document.
 
+STUDENT NOTES
+Thanks to the earlier reviewer for the wonderful suggestions. Due to work and other commitments, I could not find time to implement some of the suggestions, however, I was able to improve the validation set accuracy to .94 by tuning some of the parameters which is a requirement for successful completion of this project. Please do let me know if you have any additional comments/suggestions. This was a fun project to work on!
+
+##### Sources used:
+http://stackoverflow.com/
+https://github.com/
+https://carnd.slack.com/messages/p-traffic-signs/
+https://github.com/priya-dwivedi/CarND
+https://discussions.udacity.com/
+Thanks to my mentor for all her wonderful suggestions and her help.
